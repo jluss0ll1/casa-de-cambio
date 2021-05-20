@@ -1,27 +1,6 @@
-IMPORTANTE: No arquivo  operacoes.py > valor_convertido, criar if para possibilitar taxa de câmbio automática (forex-python) ou manual (definida pelo usuário).
-
-<style>
-h1 {
-    color: green;
-    font-family: Indigo, serif,
-    monospace;
-    font-weight: bold;
-    }
-
-p {
-  text-align: justify;
-  text-justify: inter-word;
-}
-
-</style>
-</head>
-<h1>
-
-
-
 <h1 align = 'center'> 
-    <img src = 'moeda.png'> 
-    <br>$ MUITO DINHEIRO $ 
+    <img src = 'https://i.ibb.co/W58n6fw/thumbnail-moeda.png'> 
+    <br>MUITO DINHEIRO
     <br>Casa de Câmbio</br>
 </h1>
 
@@ -51,7 +30,7 @@ https://docs.github.com/pt/github/getting-started-with-github/fork-a-repo).
 
 ``` bash
 # Clonar repositório
-git clone [link do repositório github]
+git clone github.com/jluss0ll1/casa-de-cambio
 ```
 Outra alternativa é clicar no botão verde "clone or download" neste repositório e então clicar em "Download ZIP". Em seguida, extrair o arquivo ZIP no local que você desejar editar ou executar o código.
 
