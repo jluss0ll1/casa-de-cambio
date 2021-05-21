@@ -9,7 +9,7 @@
 ___
 
 - [Sobre](#-sobre)
-- [Instalação](#-instruções-de-instalação)
+- [Instruções de Instalação](#-instruções-de-instalação)
 - [Como usar](#-como-usar)
 
 ##  💰 Sobre
@@ -34,13 +34,7 @@ git clone github.com/jluss0ll1/casa-de-cambio
 ```
 Outra alternativa é clicar no botão verde "clone or download" neste repositório e então clicar em "Download ZIP". Em seguida, extrair o arquivo ZIP no local que você desejar editar ou executar o código.
 
-Para as conversões de câmbio é utilizado o módulo [forex-python](https://pypi.org/project/forex-python/). Para instalar ele, execute o código abaixo na pasta que você salvou o projeto:
-
-```bash
-pip install -r requirements.txt -t ./resources
-```
-
-Ou apenas instale diretamente usando o comando:
+Para as conversões de câmbio é utilizado o módulo [forex-python](https://pypi.org/project/forex-python/). Instale-o diretamente usando o comando:
 
 ```bash
 pip install forex-python
