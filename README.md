@@ -30,7 +30,7 @@ https://docs.github.com/pt/github/getting-started-with-github/fork-a-repo).
 
 ``` bash
 # Clonar repositório
-git clone github.com/jluss0ll1/casa-de-cambio
+git clone https://github.com/jluss0ll1/casa-de-cambio
 ```
 Outra alternativa é clicar no botão verde "clone or download" neste repositório e então clicar em "Download ZIP". Em seguida, extrair o arquivo ZIP no local que você desejar editar ou executar o código.
 
